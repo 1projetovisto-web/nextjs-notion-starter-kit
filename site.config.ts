@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Hub de Transparência e Conteúdo - PNAB EDITAL 26/2024 SEDAC/RS',
 
   // social usernames (optional)
-  twitter: null,
+  twitter: '',
   github: '1projetovisto-web',
-  linkedin: null,
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
